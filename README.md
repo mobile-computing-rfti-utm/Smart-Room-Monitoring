@@ -1,2 +1,2 @@
 # Smart-Room-Monitoring
-Smart room scheduling monitoring using temperature sensing using flutter android
+Smart room scheduling and monitoring using temperature sensing in flutter android
